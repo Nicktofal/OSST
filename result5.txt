@@ -1,0 +1,216 @@
+ Том в устройстве C не имеет метки.
+ Серийный номер тома: 48BE-7EFA
+
+ Содержимое папки C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\ASP.NETWebAdminFiles\Images
+
+07.12.2019  12:12            22 500 ASPdotNET_logo.jpg
+07.12.2019  12:12             8 260 darkBlue_GRAD.jpg
+07.12.2019  12:12             1 409 help.jpg
+07.12.2019  12:12                49 security_watermark.jpg
+07.12.2019  12:12             8 683 topGradRepeat.jpg
+               5 файлов         40 901 байт
+
+ Содержимое папки C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\ASP.NETWebAdminFiles\Images
+
+07.12.2019  12:12            22 500 ASPdotNET_logo.jpg
+07.12.2019  12:12             8 260 darkBlue_GRAD.jpg
+07.12.2019  12:12             1 409 help.jpg
+07.12.2019  12:12                49 security_watermark.jpg
+07.12.2019  12:12             8 683 topGradRepeat.jpg
+               5 файлов         40 901 байт
+
+ Содержимое папки C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_1ee3b6e6622cf99c\NvCamera
+
+26.01.2025  21:36           281 528 GreenScreenBG01.jpg
+26.01.2025  21:36           499 736 GreenScreenBG02.jpg
+26.01.2025  21:36           346 354 scratches.jpg
+               3 файлов      1 127 618 байт
+
+ Содержимое папки C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\DesktopSpotlight\Assets\Images
+
+17.07.2025  07:10         2 791 601 image_0.jpg
+17.07.2025  07:10         2 136 665 image_1.jpg
+17.07.2025  07:10         1 860 845 image_2.jpg
+17.07.2025  07:10         1 945 591 image_3.jpg
+               4 файлов      8 734 702 байт
+
+ Содержимое папки C:\WINDOWS\Web\4K\Wallpaper\Windows
+
+07.12.2019  12:09           119 827 img0_1024x768.jpg
+07.12.2019  12:09           235 444 img0_1200x1920.jpg
+07.12.2019  12:09           176 249 img0_1366x768.jpg
+07.12.2019  12:09           723 259 img0_1600x2560.jpg
+07.12.2019  12:09           712 226 img0_2160x3840.jpg
+07.12.2019  12:09           341 387 img0_2560x1600.jpg
+07.12.2019  12:09           827 705 img0_3840x2160.jpg
+07.12.2019  12:09           173 159 img0_768x1024.jpg
+07.12.2019  12:09           222 822 img0_768x1366.jpg
+               9 файлов      3 532 078 байт
+
+ Содержимое папки C:\WINDOWS\Web\Screen
+
+07.12.2019  12:08         1 557 291 img100.jpg
+07.12.2019  12:08         1 004 054 img102.jpg
+07.12.2019  12:08           364 030 img104.jpg
+07.12.2019  12:08            36 632 img105.jpg
+               4 файлов      2 962 007 байт
+
+ Содержимое папки C:\WINDOWS\Web\Wallpaper\Spotlight
+
+17.07.2025  07:08            23 615 img50.jpg
+               1 файлов         23 615 байт
+
+ Содержимое папки C:\WINDOWS\Web\Wallpaper\Theme1
+
+07.12.2019  12:09           626 435 img1.jpg
+07.12.2019  12:09         1 277 444 img13.jpg
+07.12.2019  12:09           429 951 img2.jpg
+07.12.2019  12:09         1 194 532 img3.jpg
+07.12.2019  12:09           595 514 img4.jpg
+               5 файлов      4 123 876 байт
+
+ Содержимое папки C:\WINDOWS\Web\Wallpaper\Theme2
+
+07.12.2019  12:09           107 574 img10.jpg
+07.12.2019  12:09            77 768 img11.jpg
+07.12.2019  12:09           124 505 img12.jpg
+07.12.2019  12:09           158 112 img7.jpg
+07.12.2019  12:09            88 189 img8.jpg
+07.12.2019  12:09           137 608 img9.jpg
+               6 файлов        693 756 байт
+
+ Содержимое папки C:\WINDOWS\Web\Wallpaper\Windows
+
+07.12.2019  12:09           393 630 img0.jpg
+               1 файлов        393 630 байт
+
+ Содержимое папки C:\WINDOWS\WinSxS\amd64_microsoft-windows-fax-common_31bf3856ad364e35_10.0.19041.5794_none_8097a8d905f776d8
+
+15.10.2019  16:53           516 424 WelcomeScan.jpg
+               1 файлов        516 424 байт
+
+ Содержимое папки C:\WINDOWS\WinSxS\amd64_microsoft-windows-mediaplayer-core_31bf3856ad364e35_10.0.19041.6093_none_804885310437c8c1
+
+15.10.2019  16:49             2 979 DMR_120.jpg
+15.10.2019  16:46             1 220 DMR_48.jpg
+               2 файлов          4 199 байт
+
+ Содержимое папки C:\WINDOWS\WinSxS\amd64_microsoft-windows-s..l-wallpaper-windows_31bf3856ad364e35_10.0.19041.1_none_910333b84fcf455a
+
+07.12.2019  12:09           393 630 img0.jpg
+07.12.2019  12:09           119 827 img0_1024x768.jpg
+07.12.2019  12:09           235 444 img0_1200x1920.jpg
+07.12.2019  12:09           176 249 img0_1366x768.jpg
+07.12.2019  12:09           723 259 img0_1600x2560.jpg
+07.12.2019  12:09           712 226 img0_2160x3840.jpg
+07.12.2019  12:09           341 387 img0_2560x1600.jpg
+07.12.2019  12:09           827 705 img0_3840x2160.jpg
+07.12.2019  12:09           173 159 img0_768x1024.jpg
+07.12.2019  12:09           222 822 img0_768x1366.jpg
+              10 файлов      3 925 708 байт
+
+ Содержимое папки C:\WINDOWS\WinSxS\amd64_microsoft-windows-s..wallpaper-spotlight_31bf3856ad364e35_10.0.19041.4123_none_b6c8b63e7fca209e
+
+17.07.2025  07:08            23 615 img50.jpg
+               1 файлов         23 615 байт
+
+ Содержимое папки C:\WINDOWS\WinSxS\amd64_microsoft-windows-s..wallpaper-spotlight_31bf3856ad364e35_10.0.19041.4123_none_b6c8b63e7fca209e\n
+
+17.07.2025  07:08            23 031 img50.jpg
+               1 файлов         23 031 байт
+
+ Содержимое папки C:\WINDOWS\WinSxS\amd64_microsoft-windows-shell-wallpaper-theme1_31bf3856ad364e35_10.0.19041.1_none_8ccb1090444b78d3
+
+07.12.2019  12:09           626 435 img1.jpg
+07.12.2019  12:09         1 277 444 img13.jpg
+07.12.2019  12:09           429 951 img2.jpg
+07.12.2019  12:09         1 194 532 img3.jpg
+07.12.2019  12:09           595 514 img4.jpg
+               5 файлов      4 123 876 байт
+
+ Содержимое папки C:\WINDOWS\WinSxS\amd64_microsoft-windows-shell-wallpaper-theme2_31bf3856ad364e35_10.0.19041.1_none_8ccaf9c8444b9274
+
+07.12.2019  12:09           107 574 img10.jpg
+07.12.2019  12:09            77 768 img11.jpg
+07.12.2019  12:09           124 505 img12.jpg
+07.12.2019  12:09           158 112 img7.jpg
+07.12.2019  12:09            88 189 img8.jpg
+07.12.2019  12:09           137 608 img9.jpg
+               6 файлов        693 756 байт
+
+ Содержимое папки C:\WINDOWS\WinSxS\amd64_microsoft-windows-t..nbackgrounds-client_31bf3856ad364e35_10.0.19041.1_none_9307d11798cf436b
+
+07.12.2019  12:08         1 557 291 img100.jpg
+07.12.2019  12:08         1 004 054 img102.jpg
+07.12.2019  12:08           364 030 img104.jpg
+07.12.2019  12:08            36 632 img105.jpg
+               4 файлов      2 962 007 байт
+
+ Содержимое папки C:\WINDOWS\WinSxS\amd64_microsoft-windows-userexperience-desktop_31bf3856ad364e35_10.0.19041.6033_none_fb89e3cb7e6ac46c\CBS\DesktopSpotlight\Assets\Images
+
+17.07.2025  07:10         2 791 601 image_0.jpg
+17.07.2025  07:10         2 136 665 image_1.jpg
+17.07.2025  07:10         1 860 845 image_2.jpg
+17.07.2025  07:10         1 945 591 image_3.jpg
+               4 файлов      8 734 702 байт
+
+ Содержимое папки C:\WINDOWS\WinSxS\amd64_microsoft-windows-userexperience-desktop_31bf3856ad364e35_10.0.19041.6033_none_fb89e3cb7e6ac46c\n\CBS\DesktopSpotlight\Assets\Images
+
+17.07.2025  07:10         2 800 649 image_0.jpg
+17.07.2025  07:10         2 090 290 image_1.jpg
+17.07.2025  07:10         1 239 352 image_2.jpg
+17.07.2025  07:10         1 908 134 image_3.jpg
+               4 файлов      8 038 425 байт
+
+ Содержимое папки C:\WINDOWS\WinSxS\amd64_microsoft-windows-wmpnss-service_31bf3856ad364e35_10.0.19041.3636_none_781e629683e815a4
+
+15.10.2019  16:49             4 743 wmpnss_color120.jpg
+15.10.2019  16:49             1 859 wmpnss_color32.jpg
+15.10.2019  16:49             2 320 wmpnss_color48.jpg
+               3 файлов          8 922 байт
+
+ Содержимое папки C:\WINDOWS\WinSxS\amd64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15805.0_none_3303de6fba37b5c7
+
+07.12.2019  12:10            22 500 ASPdotNET_logo.jpg
+07.12.2019  12:10             8 260 darkBlue_GRAD.jpg
+07.12.2019  12:10             1 409 help.jpg
+07.12.2019  12:10                49 security_watermark.jpg
+07.12.2019  12:10             8 683 topGradRepeat.jpg
+               5 файлов         40 901 байт
+
+ Содержимое папки C:\WINDOWS\WinSxS\amd64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15840.3_none_32fee21fba3c2fcd
+
+07.12.2019  12:10            22 500 ASPdotNET_logo.jpg
+07.12.2019  12:10             8 260 darkBlue_GRAD.jpg
+07.12.2019  12:10             1 409 help.jpg
+07.12.2019  12:10                49 security_watermark.jpg
+07.12.2019  12:10             8 683 topGradRepeat.jpg
+               5 файлов         40 901 байт
+
+ Содержимое папки C:\WINDOWS\WinSxS\wow64_microsoft-windows-mediaplayer-core_31bf3856ad364e35_10.0.19041.6093_none_8a9d2f8338988abc
+
+18.04.2019  21:46             2 979 DMR_120.jpg
+18.04.2019  21:43             1 220 DMR_48.jpg
+               2 файлов          4 199 байт
+
+ Содержимое папки C:\WINDOWS\WinSxS\x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15805.0_none_7ab11546ceb3decd
+
+07.12.2019  12:10            22 500 ASPdotNET_logo.jpg
+07.12.2019  12:10             8 260 darkBlue_GRAD.jpg
+07.12.2019  12:10             1 409 help.jpg
+07.12.2019  12:10                49 security_watermark.jpg
+07.12.2019  12:10             8 683 topGradRepeat.jpg
+               5 файлов         40 901 байт
+
+ Содержимое папки C:\WINDOWS\WinSxS\x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15840.3_none_7aac18f6ceb858d3
+
+07.12.2019  12:10            22 500 ASPdotNET_logo.jpg
+07.12.2019  12:10             8 260 darkBlue_GRAD.jpg
+07.12.2019  12:10             1 409 help.jpg
+07.12.2019  12:10                49 security_watermark.jpg
+07.12.2019  12:10             8 683 topGradRepeat.jpg
+               5 файлов         40 901 байт
+
+     Всего файлов:
+             106 файлов     50 895 552 байт
+               0 папок  15 959 158 784 байт свободно
