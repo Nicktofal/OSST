@@ -1,11 +1,14 @@
 @echo off
+REM Батник для синхронизации папки с Git
 
-set "GIT_URL=https://github.com/Nicktofal/OSST.git
+git init
 
-git add --all
+git remote add origin "https://github.com/Nicktofal/OSST.git"
 
-git commit -m "Auto-sync %date%"
+git add .
 
-git push --recurse-submodules=on-demand "%GIT_URL%" main
+git commit -m "Auto-sync from bat script"
+
+git push -u origin master
 
 pause
