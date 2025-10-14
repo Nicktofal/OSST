@@ -9,6 +9,6 @@ git add .
 
 git commit -m "Auto-sync from bat script"
 
-git push -u origin master
+git push -u origin main
 
 pause
