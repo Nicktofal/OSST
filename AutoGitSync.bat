@@ -7,7 +7,7 @@ git remote add origin "https://github.com/Nicktofal/OSST.git"
 
 git add .
 
-git commit -m "Auto-sync from bat script"
+git commit -m "Auto-sync"
 
 git push -u origin main
 
