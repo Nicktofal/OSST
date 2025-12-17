@@ -15,7 +15,7 @@ echo.
 :: Исправление проблемы с безопасностью Git для пути с запятой
 echo Проверка настроек безопасности Git...
 git config --global --add safe.directory "%CD%" 2>nul
-git config --global --add safe.directory "C:/Users/Aziz/Documents/,Dox/ОССТ" 2>nul
+git config --global --add safe.directory "C:/Users/Aziz/Documents/Dox/ОССТ" 2>nul
 
 :: Проверка и инициализация репозитория
 if not exist ".git" (
@@ -82,7 +82,7 @@ echo [OK] Коммит создан
 
 echo.
 echo Отправка на GitHub...
-git push -u origin master 2>nul
+git push -u origin main 2>nul
 if errorlevel 1 (
     echo Попытка отправить в ветку main...
     git push -u origin main 2>nul
